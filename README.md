@@ -1,5 +1,5 @@
 # Flutter
-flutter channel master
-flutter config --enable-web
-flutter doctor -v
-flutter run -d web-server
+flutter channel master/n
+flutter config --enable-web/n
+flutter doctor -v/n
+flutter run -d web-server/n
